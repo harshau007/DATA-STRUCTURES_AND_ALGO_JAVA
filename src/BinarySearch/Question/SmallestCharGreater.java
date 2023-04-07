@@ -1,4 +1,4 @@
-package BinarySearch.Question;
+package com.example.BinarySearch.Question;
 // 744.Find the smallest letter greater than target
 //https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 public class SmallestCharGreater {

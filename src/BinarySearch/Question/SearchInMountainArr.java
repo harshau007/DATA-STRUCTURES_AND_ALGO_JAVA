@@ -1,6 +1,5 @@
-package BinarySearch.Question;
-
-import BinarySearch.BinarySearch;
+package com.example.BinarySearch.Question;
+import com.example.BinarySearch.BinarySearch;
 
 public class SearchInMountainArr {
     public static void main(String[] args) {

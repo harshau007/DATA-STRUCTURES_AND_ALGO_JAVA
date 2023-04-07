@@ -1,6 +1,6 @@
-package BinarySearch.Question;
+package com.example.BinarySearch.Question;
 
-import BinarySearch.BinarySearch;
+import com.example.BinarySearch.BinarySearch;
 
 // https://leetcode.com/problems/search-in-rotated-sorted-array/
 public class SearchInRotatedSortedArr {

@@ -1,4 +1,4 @@
-package BinarySearch.Question;
+package com.example.BinarySearch.Question;
 // Peak Index in Mountain Array (also known as Bi tonic Array)
 // https://leetcode.com/problems/peak-index-in-a-mountain-array/
 public class PeakMountainArray {

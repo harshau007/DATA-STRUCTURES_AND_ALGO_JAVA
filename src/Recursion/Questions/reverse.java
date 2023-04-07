@@ -1,4 +1,4 @@
-package Recursion.Questions;
+package com.example.Recursion.Questions;
 
 public class reverse {
     static int sum;

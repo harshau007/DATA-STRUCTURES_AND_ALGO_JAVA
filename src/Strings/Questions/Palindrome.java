@@ -1,4 +1,4 @@
-package Strings.Questions;
+package com.example.Strings.Questions;
 
 import java.util.Scanner;
 

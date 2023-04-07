@@ -1,4 +1,4 @@
-package BinarySearch.Question;
+package com.example.BinarySearch.Question;
 // We can't use Array Length function due to it being Infinite array
 // https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
 public class PosInSortedInfiniteArray {

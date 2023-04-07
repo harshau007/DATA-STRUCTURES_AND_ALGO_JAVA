@@ -1,4 +1,4 @@
-package BinarySearch;
+package com.example.BinarySearch;
 import java.util.Arrays;
 
 public class TwoDBinarySearch {

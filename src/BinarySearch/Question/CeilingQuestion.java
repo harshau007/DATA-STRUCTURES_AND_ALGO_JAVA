@@ -1,4 +1,4 @@
-package BinarySearch.Question;
+package com.example.BinarySearch.Question;
 
 public class CeilingQuestion {
     public static void main(String[] args) {
